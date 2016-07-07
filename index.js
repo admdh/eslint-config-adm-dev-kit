@@ -111,8 +111,8 @@ module.exports = {
 		"semi":                        [2, "always"],
 		"yoda":                        [2, "never"]
 	},
-		"env": {
-			"browser": true,
-			"node": true
+	"env": {
+		"browser": true,
+		"node": true
 	}
 };
