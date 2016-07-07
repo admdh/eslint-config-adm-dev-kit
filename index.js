@@ -1,7 +1,7 @@
 module.exports = {
-	"parser":"babel-eslint",
-	"rules": {
-	"space-before-function-paren": [2, { "named": "never" }],
+	"parser": "babel-eslint",
+	"rules":  {
+		"space-before-function-paren": [2, { "named": "never" }],
 		"no-shadow-restricted-names":  [2],
 		"computed-property-spacing":   [2],
 		"no-empty-character-class":    [2],
@@ -113,6 +113,6 @@ module.exports = {
 	},
 	"env": {
 		"browser": true,
-		"node": true
+		"node":    true
 	}
 };
