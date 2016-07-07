@@ -1,5 +1,5 @@
 module.exports = {
-	"rules":  {
+	"rules": {
 		"space-before-function-paren": [2, { "named": "never" }],
 		"no-shadow-restricted-names":  [2],
 		"computed-property-spacing":   [2],
