@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-adm-dev-kit",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "An ESLint shareable config for ADM DEV KIT",
 	"main": "index.js",
 	"files": [

@@ -1,5 +1,4 @@
 module.exports = {
-	"parser": "babel-eslint",
 	"rules":  {
 		"space-before-function-paren": [2, { "named": "never" }],
 		"no-shadow-restricted-names":  [2],
@@ -110,9 +109,5 @@ module.exports = {
 		"indent":                      [2, "tab"],
 		"semi":                        [2, "always"],
 		"yoda":                        [2, "never"]
-	},
-	"env": {
-		"browser": true,
-		"node":    true
 	}
 };
