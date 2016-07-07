@@ -19,5 +19,8 @@
 	"license": "MIT",
 	"devDependencies": {
 		"eslint": "^3.0.0"
+	},
+	"eslintConfig": {
+		"extends": "./index.js"
 	}
 }
