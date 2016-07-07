@@ -22,6 +22,11 @@
 		"eslint": "^3.0.0"
 	},
 	"eslintConfig": {
-		"extends": "./index.js"
+		"extends": "./index.js",
+		"rules": {
+			"quote-props": [2, "always"],
+			"key-spacing": [2, { "align": "value" }],
+			"quotes": [2, "double"],
+		}
 	}
 }
